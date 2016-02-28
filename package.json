@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/therums/express/issues"
   },
-  "homepage": "https://github.com/therums/express#readme"
+  "homepage": "https://github.com/therums/express#readme",
+  "dependencies": {
+    "ejs": "^2.4.1"
+  }
 }
